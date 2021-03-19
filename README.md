@@ -1,4 +1,7 @@
-
+<img
+		width="250"
+		alt="Component Radio React Native"
+		src="https://github.com/wagnerfl/radio-button-with-react-native/blob/master/preview/screen.jpg">
 ## Installation and usage
 
 Be sure, you have installed all dependencies and applications to run React Native project on your computer : [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
